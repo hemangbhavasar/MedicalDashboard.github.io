@@ -13,9 +13,9 @@ Built with ❤︎ and :coffee: by  [HEMANG BHAVASAR](https://github.com/hemangbh
 For Medicla Dashboard Tableau+VoiceCommands JavaScript
 
 
+# Donation
 
-#Donation
-If you have found my scripts to be of any use to you, do consider helping me pay my internet bills. This would encourage me to create many such scripts 😄
+If you have found my scripts to be of any use to you, do consider helping me pay my internet bills. This would encourage me to create many such scripts :smile:
 
-PayPal	Donate via PayPal!
-₹ (INR)	Donate via Instamojo
+| PayPal | <a href="https://paypal.me/hemangbhavasar" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg" alt="Donate via PayPal!" title="Donate via PayPal!" /></a> |
+|:-------------------------------------------:|:-------------------------------------------------------------:|
